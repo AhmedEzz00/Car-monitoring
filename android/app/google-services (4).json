@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "686153537712",
+    "firebase_url": "https://car-monitoring-50c0b-default-rtdb.firebaseio.com",
+    "project_id": "car-monitoring-50c0b",
+    "storage_bucket": "car-monitoring-50c0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686153537712:android:d81af244fb084a52d0c375",
+        "android_client_info": {
+          "package_name": "com.example.car_conitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686153537712-rdgc61p9hdneacjrm6g6s0snm7sf6oim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsguIGtVHbql9qUA4IqGBhsPmjKlEUvIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686153537712-rdgc61p9hdneacjrm6g6s0snm7sf6oim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
